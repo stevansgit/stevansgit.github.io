@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+header_pages:
+  - who-i-am.md
+  - where-ive-worked.md
+  - things-ive-written.md
+  - contact.md  
+theme: minima
