@@ -4,9 +4,9 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - who-i-am.md
-  - where-ive-worked.md
-  - things-ive-done.md
-  - contact-me.md
+- who-i-am.md
+- where-ive-worked.md
+- things-ive-done.md
+- contact-me.md
 
   theme: jekyll-theme-minima
