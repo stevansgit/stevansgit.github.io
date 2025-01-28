@@ -8,4 +8,4 @@ header_pages:
   - where-ive-worked.md
   - things-ive-written.md
   - contact.md  
-theme: jekyll-theme-minima
+theme: minima
