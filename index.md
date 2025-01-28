@@ -1,0 +1,3 @@
+# Hello
+
+I'm Steve, a technical writer and content designer. I've been writing about technology and technical things for over 10 years... But you can read more about that on my CV page. You can also check out some writing example, and if you want to get in touch, you can do that, too. 
