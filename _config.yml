@@ -8,3 +8,5 @@ include:
   - where-ive-worked.md
   - things-ive-done.md
   - contact-me.md
+
+  theme: jekyll-theme-minima
