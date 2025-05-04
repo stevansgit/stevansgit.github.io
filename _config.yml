@@ -9,7 +9,6 @@ titles_from_headings:
   strip_title: true
   collections: true   
 header_pages:
-  - who-i-am.md
   - where-ive-worked.md
   - things-ive-written.md
   - contact.md  
