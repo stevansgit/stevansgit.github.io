@@ -8,14 +8,14 @@ My skills include:
 
 **Technical**
 
-Docs-as-code, GitHub, Git, API documentation, release notes, Markdown, HTML, CSS, MadCap Flare, DITA, CI/CD, DevOps, Confluence, Jira, Google Workspace, Microsoft Office.
+Docs-as-code, GitHub, Git, API documentation, release notes, Markdown, HTML, CSS, MadCap Flare, DITA, CI/CD, DevOps, Confluence, Jira, Google Workspace and Microsoft Office.
 
 **Content and design**
 
-User-centered technical documentation, content lifecycle management, content strategy, accessibility, Agile practices, reviewing technical documentation, interviewing technical subject matter experts.
+User-centered technical documentation, content lifecycle management, content strategy, accessibility, Agile practices, reviewing technical documentation and interviewing technical subject matter experts.
 
 **Management**
 
-Team leadership, mentoring and career progression, stakeholder management, line management, recruitment
+Team leadership, mentoring and career progression, stakeholder management, line management and recruitment.
 
 Please do get in touch if youd like to discuss any job openings, or if you'd just like to connect and have a chat.
