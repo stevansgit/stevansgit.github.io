@@ -2,23 +2,17 @@ I'm Steve, a technical writer and content designer. I've been writing about tech
 
 More seriously, I’m an experienced content professional with a track record of delivering user-centred technical documentation and content design. I’m passionate about translating complex technical information into simple, accurate content that meets user needs.
 
-I'm currently on the look out for a full-time, fully remote, permanent technical writing or content design role. My skills include: 
+I'm currently searching for a full-time, permanent, fully remote or hybrid, technical writing or content design role. 
 
-- User-centred technical documentation and content design
-- Content lifecycle management
-- Content strategy
-- GitHub
-- Git
-- Docs-as-code
-- Markdown
-- Confluence
-- Jira
-- Stakeholder management
-- Line management
-- Recruitment
-- Team leadership
-- Accessibility
-- Blogging
-- Agile practices
+My skills include: 
+
+**Technical**
+Docs-as-code, GitHub, Git, API documentation, release notes, Markdown, HTML, CSS, MadCap Flare, DITA, CI/CD, DevOps, Confluence, Jira, Google Workspace, Microsoft Office.
+
+**Content and design**
+User-centered technical documentation, content lifecycle management, content strategy, accessibility, Agile practices, reviewing technical documentation, interviewing technical subject matter experts.
+
+**Management**
+Team leadership, mentoring and career progression, stakeholder management, line management, recruitment
 
 Please do get in touch if youd like to discuss any job openings, or if you'd just like to connect and have a chat.
