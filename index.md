@@ -2,7 +2,7 @@ I'm Steve, a technical writer and content designer. I've been writing about tech
 
 More seriously, I’m an experienced content professional with a track record of delivering user-centred technical documentation and content design. I’m passionate about translating complex technical information into simple, accurate content that meets user needs.
 
-I'm currently searching for a full-time, permanent, fully remote or hybrid, technical writing or content design role. 
+I'm currently searching for a new full-time role, one I can do either remotely or on a hybrid basis in a Madrid office. I'm happy working on either a permanent or contract basis. 
 
 My skills include: 
 
