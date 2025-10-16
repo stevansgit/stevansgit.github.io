@@ -1,4 +1,4 @@
-I'm Steve, a technical writer and content designer. I've been writing about technology and technical things for over 10 years... But you can read more about that on my CV page. You can also check out some writing example, and if you want to get in touch, you can do that, too. 
+I'm Steve, a technical writer and content designer. I've been writing about technology and technical things for nearly 20 years... But you can read more about that on my CV page. You can also check out some writing examples, and if you want to get in touch, you can do that, too. 
 
 More seriously, I’m an experienced content professional with a track record of delivering user-centred technical documentation and content design. I’m passionate about translating complex technical information into simple, accurate content that meets user needs.
 
