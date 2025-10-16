@@ -16,7 +16,7 @@ I wrote and maintained user-focused technical documentation for the [GOV.UK One 
 
 September 2023 - April 2024
 
-Co-led project to rewrite 226 Foreign Travel Advice country guides to be clearer, more concise and easier to understand. 
+Co-led project to rewrite 226 [Foreign Travel Advice country guides](https://www.gov.uk/foreign-travel-advice) to be clearer, more concise and easier to understand. 
 
 - Made rewriting Travel Advice guides easier for non-content designers going forward by developing a template and streamlining the publishing process.
 - Reduced word count on each page by an average of 35%.
@@ -28,17 +28,17 @@ Co-led project to rewrite 226 Foreign Travel Advice country guides to be clearer
 
 November 2022 - August 2023
 
-First technical writer in The Foundry, successfully implemented a docs-as-code approach to publishing content through GitHub, using Markdown and HTML. 
+First technical writer in [The Foundry](https://www.digital.mod.uk) and successfully implemented a docs-as-code approach to publishing content through GitHub, using Markdown and HTML. 
 
 - Introduced user-centered design practices and successfully built a content community across the Ministry of Defence, collaborating with permanent and contract technical writers and content designers.
 - Led a workstream to improve content and documentation for Foundry services teams by writing, reviewing, editing and publishing highly technical, user-focused product and service documentation.
 - Worked closely with developers, technical architects and other subject matter experts to understand the products and services and turn their knowledge into clear and concise technical documentation.
 
-### Lead Technical Writer, Government Digital Service and Central Digital and Data Office (CDDO)
+### Lead Technical Writer, Government Digital Service and Central Digital and Data Office
 
 August 2019 - October 2022
 
-Promoted to leed a team of five technical writers responsible for delivering all government technology policy content.
+Promoted to led a team of five technical writers responsible for delivering all government technology policy content.
 
 - Ensured all guidance reflected government policy by working with stakeholders and managing a pipeline of upcoming technical guidance. 
 - Ensured all content followed the style guide and met government content standards by owning the publishing and review process for technical content.
@@ -46,13 +46,13 @@ Promoted to leed a team of five technical writers responsible for delivering all
 - Managed a team of technical writers, helping with career progression and personal development during COVID and multiple organisational changes.
 - Helped develop a content strategy for CDDO, which involved auditing content estate to find patterns of content type and subject, who owned the guidance and when it was published.
 - Led the development of GOV.UK’s API design guidance, which included commissioning, writing and editing various pieces of API-related guidance. 
-- Increased blog post readership by 18% while running the Technology in Government blog, by carrying out research into topics users wanted to read about and promoting posts across social media channels.
+- Increased blog post readership by 18% while running the [Technology in Government blog](https://technology.blog.gov.uk), by carrying out research into topics users wanted to read about and promoting posts across social media channels.
 
 ### Technical Writer, Government Digital Service
 
 April 2017 - August 2019
 
-Wrote technical documentation and guidance for GDS products and services, including GovWifi, GovPrint, the government Hubs project, Public Services Network and the GDS Way.
+Wrote technical documentation and guidance for GDS products and services, including [GovWifi](https://docs.wifi.service.gov.uk/?_ga=2.51704425.1736727215.1760625335-554144791.1760625335), GovPrint, the government Hubs project, Public Services Network and the [GDS Way](https://gds-way.digital.cabinet-office.gov.uk).
 
 - Managed priorities across a variety of products by proactively engaging with stakeholders to identify content needs.
 - Worked closely with user researchers to make sure content met user needs, including taking part in user research sessions and analysing outcomes.
