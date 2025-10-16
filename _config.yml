@@ -10,6 +10,6 @@ titles_from_headings:
   collections: true   
 header_pages:
   - where-ive-worked.md
-  - things-ive-written.md
+  - case-studies/index.md
   - contact.md  
 theme: minima

@@ -1,6 +1,4 @@
-## Things I've written
-
-### The GOV.UK One Login simulator
+## The GOV.UK One Login simulator
 
 This is one of the most rewarding pieces of documentation I've worked on during my career. 
 
@@ -27,5 +25,3 @@ Once the new version was peer reviewed and signed-off for publication I publishe
 The most satisfying element of this project wasn't getting the work published, it was seizing the opportunity to advocate for technical documentation best practices. I was able to show the value of including technical writers in a project for the start. As a result of my efforts, technical writers are now included in kick-off meetings, which means we’re able to advance documentation understanding and best-practices.
 
 You can [read the GOV.UK One Login simulator documentation here](https://docs.sign-in.service.gov.uk/test-your-integration/).
-
-
