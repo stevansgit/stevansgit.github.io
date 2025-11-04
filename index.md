@@ -18,4 +18,4 @@ User-centered technical documentation, content lifecycle management, content str
 
 Team leadership, mentoring and career progression, stakeholder management, line management and recruitment.
 
-Please do get in touch if youd like to discuss any job openings, or if you'd just like to connect and have a chat.
+Please do get in touch if you'd like to discuss any job openings, or if you'd just like to connect and have a chat.
